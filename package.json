@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/live-broadcast",
+  "_id": "@ionic-native/live-broadcast@0.0.1",
+  "_inBundle": false,
+  "_location": "/@ionic-native/live-broadcast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/live-broadcast",
+    "name": "@ionic-native/live-broadcast",
+    "escapedName": "@ionic-native%2flive-broadcast",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_spec": "@ionic-native/live-broadcast",
+  "_where": "",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/live-broadcast",
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandLZ/live-broadcast.git"
+  },
+  "typings": "index.d.ts",
+  "version": "0.0.1"
+}
